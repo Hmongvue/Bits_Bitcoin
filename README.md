@@ -1,2 +1,2 @@
 # Bits_Bitcoin
-Bits as bitcoin decentralized Cryptocurrencies.
+Bits as bitcoin decentralized key.
